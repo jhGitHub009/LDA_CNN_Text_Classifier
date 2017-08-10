@@ -1,6 +1,0 @@
-model_checkpoint_path: "C:\\Users\\user\\My_jupyter_170811\\code_challenge_8\\runs\\1502387469\\checkpoints\\model-2000"
-all_model_checkpoint_paths: "C:\\Users\\user\\My_jupyter_170811\\code_challenge_8\\runs\\1502387469\\checkpoints\\model-1600"
-all_model_checkpoint_paths: "C:\\Users\\user\\My_jupyter_170811\\code_challenge_8\\runs\\1502387469\\checkpoints\\model-1700"
-all_model_checkpoint_paths: "C:\\Users\\user\\My_jupyter_170811\\code_challenge_8\\runs\\1502387469\\checkpoints\\model-1800"
-all_model_checkpoint_paths: "C:\\Users\\user\\My_jupyter_170811\\code_challenge_8\\runs\\1502387469\\checkpoints\\model-1900"
-all_model_checkpoint_paths: "C:\\Users\\user\\My_jupyter_170811\\code_challenge_8\\runs\\1502387469\\checkpoints\\model-2000"
